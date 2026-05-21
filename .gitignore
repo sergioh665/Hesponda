@@ -1,8 +1,7 @@
-node_modules/
 .env
-.wppconnect/
-sessions/
-dist/
-npm-debug.log
-yarn-error.log
-tokens
+sessao_bot.session
+sessao_bot.session-journal
+__pycache__/
+*.pyc
+venv/
+nohup.out
